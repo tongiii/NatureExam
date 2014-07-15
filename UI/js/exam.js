@@ -1,4 +1,9 @@
-Exam.PROBLEMS=null; //试题集合
-Exam.Settings=null; //设置
-Exam.USER=null;  //用户信息。
-Exam.TEST=null;  //考试信息
+Exam.PROBLEMS={}; //试题集合
+Exam.Settings={
+	//迟到限时
+		//交卷限时
+		//
+}; //设置
+Exam.USER={};  //用户信息。
+Exam.TEST={};  //考试信息
+Exam.Messages={};
